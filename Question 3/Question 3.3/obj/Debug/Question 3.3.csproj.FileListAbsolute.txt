@@ -1,0 +1,7 @@
+C:\Users\13520\Desktop\Semster 4\Multi-Tier\FinalExam\Question 3\Question 3.3\bin\Debug\Question 3.3.exe.config
+C:\Users\13520\Desktop\Semster 4\Multi-Tier\FinalExam\Question 3\Question 3.3\bin\Debug\Question 3.3.exe
+C:\Users\13520\Desktop\Semster 4\Multi-Tier\FinalExam\Question 3\Question 3.3\bin\Debug\Question 3.3.pdb
+C:\Users\13520\Desktop\Semster 4\Multi-Tier\FinalExam\Question 3\Question 3.3\obj\Debug\Question 3.3.csproj.AssemblyReference.cache
+C:\Users\13520\Desktop\Semster 4\Multi-Tier\FinalExam\Question 3\Question 3.3\obj\Debug\Question 3.3.csproj.CoreCompileInputs.cache
+C:\Users\13520\Desktop\Semster 4\Multi-Tier\FinalExam\Question 3\Question 3.3\obj\Debug\Question 3.3.exe
+C:\Users\13520\Desktop\Semster 4\Multi-Tier\FinalExam\Question 3\Question 3.3\obj\Debug\Question 3.3.pdb

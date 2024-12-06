@@ -1,0 +1,7 @@
+C:\Users\13520\Desktop\Semster 4\Multi-Tier\FinalExam\Question 1\bin\Debug\Question 1.exe.config
+C:\Users\13520\Desktop\Semster 4\Multi-Tier\FinalExam\Question 1\bin\Debug\Question 1.exe
+C:\Users\13520\Desktop\Semster 4\Multi-Tier\FinalExam\Question 1\bin\Debug\Question 1.pdb
+C:\Users\13520\Desktop\Semster 4\Multi-Tier\FinalExam\Question 1\obj\Debug\Question 1.csproj.AssemblyReference.cache
+C:\Users\13520\Desktop\Semster 4\Multi-Tier\FinalExam\Question 1\obj\Debug\Question 1.csproj.CoreCompileInputs.cache
+C:\Users\13520\Desktop\Semster 4\Multi-Tier\FinalExam\Question 1\obj\Debug\Question 1.exe
+C:\Users\13520\Desktop\Semster 4\Multi-Tier\FinalExam\Question 1\obj\Debug\Question 1.pdb

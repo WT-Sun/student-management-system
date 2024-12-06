@@ -1,0 +1,15 @@
+C:\Users\13520\Desktop\Semster 4\Multi-Tier\FinalExam\Question 4\bin\Debug\Question 4.exe.config
+C:\Users\13520\Desktop\Semster 4\Multi-Tier\FinalExam\Question 4\bin\Debug\Question 4.exe
+C:\Users\13520\Desktop\Semster 4\Multi-Tier\FinalExam\Question 4\bin\Debug\Question 4.pdb
+C:\Users\13520\Desktop\Semster 4\Multi-Tier\FinalExam\Question 4\bin\Debug\EntityFramework.dll
+C:\Users\13520\Desktop\Semster 4\Multi-Tier\FinalExam\Question 4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\13520\Desktop\Semster 4\Multi-Tier\FinalExam\Question 4\bin\Debug\EntityFramework.xml
+C:\Users\13520\Desktop\Semster 4\Multi-Tier\FinalExam\Question 4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\13520\Desktop\Semster 4\Multi-Tier\FinalExam\Question 4\obj\Debug\Question 4.csproj.AssemblyReference.cache
+C:\Users\13520\Desktop\Semster 4\Multi-Tier\FinalExam\Question 4\obj\Debug\Question_4.Form1.resources
+C:\Users\13520\Desktop\Semster 4\Multi-Tier\FinalExam\Question 4\obj\Debug\Question_4.Properties.Resources.resources
+C:\Users\13520\Desktop\Semster 4\Multi-Tier\FinalExam\Question 4\obj\Debug\Question 4.csproj.GenerateResource.cache
+C:\Users\13520\Desktop\Semster 4\Multi-Tier\FinalExam\Question 4\obj\Debug\Question 4.csproj.CoreCompileInputs.cache
+C:\Users\13520\Desktop\Semster 4\Multi-Tier\FinalExam\Question 4\obj\Debug\Question 4.csproj.CopyComplete
+C:\Users\13520\Desktop\Semster 4\Multi-Tier\FinalExam\Question 4\obj\Debug\Question 4.exe
+C:\Users\13520\Desktop\Semster 4\Multi-Tier\FinalExam\Question 4\obj\Debug\Question 4.pdb
